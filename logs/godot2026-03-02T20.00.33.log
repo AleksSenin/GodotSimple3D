@@ -1,0 +1,45 @@
+Godot Engine v4.6.1.stable.mono.official.14d19694e - https://godotengine.org
+Metal 4.0 - Forward+ - Using Device #0: Apple - Apple M1 (Apple7)
+
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Parameter "space" is null.
+   at: body_test_motion (modules/jolt_physics/jolt_physics_server_3d.cpp:963)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:29)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Parameter "space" is null.
+   at: body_test_motion (modules/jolt_physics/jolt_physics_server_3d.cpp:963)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:26)
+ERROR: Condition "!is_inside_tree()" is true. Returning: Transform3D()
+   at: get_global_transform (scene/3d/node_3d.cpp:642)
+   GDScript backtrace (most recent call first):
+       [0] _physics_process (res://player.gd:29)
+ERROR: Resource file not found: res://main.tscn::ig7tw (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:351)
