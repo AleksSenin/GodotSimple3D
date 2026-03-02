@@ -1,0 +1,13 @@
+# Godot temporary files
+.import/
+.godot/
+*.import
+*.tmp
+
+# Mono / C# build files (если используешь C#)
+.mono/
+bin/
+obj/
+
+# MacOS
+.DS_Store
